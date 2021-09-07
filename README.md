@@ -6,3 +6,5 @@ List of tools and applications used for web development and designing
 shape divider for their latest project.
 - [KUTE.js](https://thednp.github.io/kute.js/) - The JavaScript animation engine of the future.
 - [Lordicon](https://lordicon.com/) - Lordicon is a powerful library with 1700 animated icons.
+- [Fontflipper](https://fontflipper.com) - A web app for creating awesome fonts.
+- 
