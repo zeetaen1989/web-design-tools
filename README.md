@@ -1,4 +1,4 @@
-# web-design-tools
+# Web Design and Development Tools
 List of tools and applications used for web development and designing
 
 - [Haikei](https://app.haikei.app/) - Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.
