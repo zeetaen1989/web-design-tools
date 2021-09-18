@@ -7,6 +7,6 @@ shape divider for their latest project.
 - [ColorSpace](https://mycolor.space/) - Find a perfect color palette with multiple gradient layer effects.
 - [Adobe Color](https://color.adobe.com/create) - Adobe color palette website.
 - [Lordicon](https://lordicon.com/) - Lordicon is a powerful library with 1700 animated icons.
-- [unDraw](https://undraw.co/) - Free Vector illustration designs.
+- [unDraw](https://undraw.co/) - An open source free Vector illustration designing application.
 - [Fontflipper](https://fontflipper.com) - A web app for creating awesome fonts.
 - [NekoCalc](https://nekocalc.com/) - A web app for converting different web developing units to another unit.
