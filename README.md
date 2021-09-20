@@ -6,6 +6,7 @@ List of tools and applications used for web development and designing
 shape divider for their latest project.
 - [ColorSpace](https://mycolor.space/) - Find a perfect color palette with multiple gradient layer effects.
 - [Adobe Color](https://color.adobe.com/create) - Adobe color palette website.
+- [CSS Gradient](https://cssgradient.io/) - Create gradient colors for your background for free.
 - [Lordicon](https://lordicon.com/) - Lordicon is a powerful library with 1700 animated icons.
 - [unDraw](https://undraw.co/) - An open source free Vector illustration designing application.
 - [Fontflipper](https://fontflipper.com) - A web app for creating awesome fonts.
