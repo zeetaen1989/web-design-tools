@@ -8,6 +8,7 @@ shape divider for their latest project.
 - [Adobe Color](https://color.adobe.com/create) - Adobe color palette website.
 - [CSS Gradient](https://cssgradient.io/) - Create gradient colors for your background for free.
 - [Canva](https://www.canva.com/) - Free Logo Design application.
+- [RemoveBG](https://www.remove.bg/) - Remove Background of an image for free.
 - [Lordicon](https://lordicon.com/) - Lordicon is a powerful library with 1700 animated icons.
 - [unDraw](https://undraw.co/) - An open source free Vector illustration designing application.
 - [Fontflipper](https://fontflipper.com) - A web app for creating awesome fonts.
