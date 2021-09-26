@@ -10,6 +10,7 @@ shape divider for their latest project.
 - [CSS Gradient](https://cssgradient.io/) - Create gradient colors for your background for free.
 - [Canva](https://www.canva.com/) - Free Logo Design application.
 - [RemoveBG](https://www.remove.bg/) - Remove Background of an image for free.
+- [Flaticon](https://www.flaticon.com/) - Access vector icons and stickers.
 - [Lordicon](https://lordicon.com/) - Lordicon is a powerful library with 1700 animated icons.
 - [unDraw](https://undraw.co/) - An open source free Vector illustration designing application.
 - [Fontflipper](https://fontflipper.com) - A web app for creating awesome fonts.
