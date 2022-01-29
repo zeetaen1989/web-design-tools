@@ -11,6 +11,7 @@ shape divider for their latest project.
 - [Canva](https://www.canva.com/) - Free Logo Design application.
 - [RemoveBG](https://www.remove.bg/) - Remove Background of an image for free.
 - [Flaticon](https://www.flaticon.com/) - Access vector icons and stickers.
+- [Icons-Icons](https://icon-icons.com/) - Free SVG, PNG icons to download.
 - [Lordicon](https://lordicon.com/) - Lordicon is a powerful library with 1700 animated icons.
 - [unDraw](https://undraw.co/) - An open source free Vector illustration designing application.
 - [Fontflipper](https://fontflipper.com) - A web app for creating awesome fonts.
