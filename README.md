@@ -12,6 +12,7 @@ shape divider for their latest project.
 - [RemoveBG](https://www.remove.bg/) - Remove Background of an image for free.
 - [Flaticon](https://www.flaticon.com/) - Access vector icons and stickers.
 - [Icons-Icons](https://icon-icons.com/) - Free SVG, PNG icons to download.
+- [Icon Scout](https://iconscout.com/) - Free icons and SVG icons color editor. 
 - [Lordicon](https://lordicon.com/) - Lordicon is a powerful library with 1700 animated icons.
 - [unDraw](https://undraw.co/) - An open source free Vector illustration designing application.
 - [Fontflipper](https://fontflipper.com) - A web app for creating awesome fonts.
